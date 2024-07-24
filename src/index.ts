@@ -1,3 +1,1 @@
-export function helloNpm() {
-  return "hello NPM";
-}
+export * from "./functions";
